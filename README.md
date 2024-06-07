@@ -70,6 +70,10 @@ Based on these insights, selected the final 11 players who would form the ideal 
 
 ![fastbowler2](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/55d199bd-88ef-4399-ba12-02104ecbd6a7)
 
+6. **Final 12** : These are the players we choose to play the final match.
+
+![final 12](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/359d6098-ed3f-4b91-ba04-e0230a3deeae)
+
 
 
 
