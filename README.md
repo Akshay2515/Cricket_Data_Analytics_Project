@@ -41,6 +41,7 @@ Based on these insights, selected the final 11 players who would form the ideal 
 
 ## Power BI Dashboard to find Top Final Players To Play Match
 
+![top5openers hitters1](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/15e7325f-bb75-4ae8-96e3-c9cd2d5bc294)
 
 
 
