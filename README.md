@@ -43,6 +43,7 @@ Based on these insights, selected the final 11 players who would form the ideal 
 1. **Power Hitters/Openers** : These are the best players to hit the boundaries.
 ![top5openers hitters1](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/15e7325f-bb75-4ae8-96e3-c9cd2d5bc294)
 
+![top5openers](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/5e488d30-69fe-415b-a02f-111d28f4e58f)
 
 
 
