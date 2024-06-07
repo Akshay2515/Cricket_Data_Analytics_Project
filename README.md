@@ -55,7 +55,12 @@ Based on these insights, selected the final 11 players who would form the ideal 
 
 ![finishers2](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/703347c8-2350-4828-87b8-cb56ca5fec29)
 
- 
+4. **All Rounders** : These are the all rounder players both in batting and bowling.
+![allrounders](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/21630cf7-999b-45b4-82fa-18f6afb19a4f)
+
+![allrounders2](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/3618d0da-99b6-4a79-8e48-356adff4a91a)
+
+5.
 
 
 
