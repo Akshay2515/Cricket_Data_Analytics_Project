@@ -48,6 +48,7 @@ Based on these insights, selected the final 11 players who would form the ideal 
 2. **New Anchors/Middle Order** : These are the middle order players.
 ![New anchors middle order](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/341c0103-e735-43f8-9390-bbc304ad879a)
 
+![new achors virat](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/204ed39f-f24e-453f-8063-917504a3aa53)
 
 
 
