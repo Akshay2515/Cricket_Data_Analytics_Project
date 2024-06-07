@@ -50,7 +50,12 @@ Based on these insights, selected the final 11 players who would form the ideal 
 
 ![new achors virat](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/204ed39f-f24e-453f-8063-917504a3aa53)
 
+3. **Finisher/Lower Order Anchors** : These are the Lower order Anchors.
+![finishers1](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/52c4fc27-cb23-43bc-9f4c-1427e1a9c122)
 
+![finishers2](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/703347c8-2350-4828-87b8-cb56ca5fec29)
+
+ 
 
 
 
