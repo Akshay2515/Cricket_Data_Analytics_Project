@@ -45,6 +45,25 @@ Based on these insights, selected the final 11 players who would form the ideal 
 
 ![top5openers](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/5e488d30-69fe-415b-a02f-111d28f4e58f)
 
+2. **New Anchors/Middle Order** : These are the middle order players.
+![New anchors middle order](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/341c0103-e735-43f8-9390-bbc304ad879a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
