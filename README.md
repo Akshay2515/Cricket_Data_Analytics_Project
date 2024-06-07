@@ -75,7 +75,9 @@ Based on these insights, selected the final 11 players who would form the ideal 
 ![final 12](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/359d6098-ed3f-4b91-ba04-e0230a3deeae)
 
 
+## Conclusion
 
+This project showcases the integration of data collection, cleaning, transformation, modeling, and visualization techniques to perform an in-depth analysis of T20 World Cup cricket data.
 
 
 
