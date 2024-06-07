@@ -40,7 +40,7 @@ Analyzed the dashboards to extract meaningful insights about player performances
 Based on these insights, selected the final 11 players who would form the ideal team for the T20 World Cup.
 
 ## Power BI Dashboard to find Top Final Players To Play Match
-
+1. **Power Hitters/Openers** : These are the best players to hit the boundaries.
 ![top5openers hitters1](https://github.com/Akshay2515/Cricket_Data_Analytics_Project/assets/126151845/15e7325f-bb75-4ae8-96e3-c9cd2d5bc294)
 
 
